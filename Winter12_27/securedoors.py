@@ -1,3 +1,4 @@
+#https://open.kattis.com/contests/d2wwew/problems/securedoors
 logLength = int(input())
 logInput = []
 logOutput =[]

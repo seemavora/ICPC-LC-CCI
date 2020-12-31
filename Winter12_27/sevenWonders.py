@@ -1,3 +1,4 @@
+#https://open.kattis.com/contests/d2wwew/problems/sevenwonders
 cards= str(input())
 individualCard = list(cards)
 tCount = 0
