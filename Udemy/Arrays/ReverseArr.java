@@ -11,10 +11,6 @@ public class ReverseArr {
         inputArr[i] = tempL;
         inputArr[(len)-1-i] = tempU;
  }
-   
-  for (int k = 0; k< len; k++){
-    System.out.print(inputArr[k]);
-  }
-  System.out.println(' ');
+   System.out.println(inputArr);
     }
 }
